@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Euclid Circular B';
+    font-family: 'Euclid Circular B Bold';
     src: url('EuclidCircularB-Bold.woff2') format('woff2'),
         url('EuclidCircularB-Bold.woff') format('woff');
     font-weight: bold;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Euclid Circular B';
+    font-family: 'Euclid Circular B Bold';
     src: url('EuclidCircularB-BoldItalic.woff2') format('woff2'),
         url('EuclidCircularB-BoldItalic.woff') format('woff');
     font-weight: bold;
