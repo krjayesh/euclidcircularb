@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Euclid Circular B';
+    font-family: 'Euclid Circular B SemiBold';
     src: url('EuclidCircularB-SemiBold.woff2') format('woff2'),
         url('EuclidCircularB-SemiBold.woff') format('woff');
     font-weight: 600;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Euclid Circular B';
+    font-family: 'Euclid Circular B SemiBold';
     src: url('EuclidCircularB-SemiBoldItalic.woff2') format('woff2'),
         url('EuclidCircularB-SemiBoldItalic.woff') format('woff');
     font-weight: 600;
